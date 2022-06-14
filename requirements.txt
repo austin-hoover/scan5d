@@ -1,0 +1,13 @@
+importlib
+urllib
+numpy
+h5py
+imageio
+scipy
+scikit-image
+tqdm
+matplotlib==3.4.3
+plotly
+ipywidgets
+IPython
+proplot
