@@ -1,5 +1,4 @@
 importlib
-urllib
 numpy
 h5py
 imageio
